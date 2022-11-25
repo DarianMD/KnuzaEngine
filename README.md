@@ -1,2 +1,2 @@
-# KnusEngine
+# KnuzaEngine
 C++ + OpenGL Engine
